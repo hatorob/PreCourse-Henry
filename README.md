@@ -1,2 +1,1 @@
-# PreCourse-Henry
-Este es un repositorio de pruebas del modulo 2 de PreCurse
+Este proyecto es de como crear un repositorio y clonarlo
